@@ -1,4 +1,4 @@
-Test machine: csel-kh1250-13.cselabs.umn.edu<br>
+
 Name: Declan McGraw, Caleb Twiggs, Noah Gilbertson<br>
 X500: mcgra406, twigg015, gilb0360<br>
 Group 110<br>
